@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "willvk.github.io/docs/valkair/Characters/Hannah.md",
+                "file": "willvk.github.io/docs/valkair/World Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hannah"
+              "title": "World Overview"
             }
           }
         ],
@@ -220,11 +220,16 @@
   },
   "active": "715482ba9d25b39e",
   "lastOpenFiles": [
-    "willvk.github.io/docs/valkair/Welcome.md",
+    "README.md",
+    "willvk.github.io/README.md",
+    "Campaign Planning/Act 1 Plots pieces/HeimdallVisit.md",
+    "willvk.github.io/docs/valkair/World Overview.md",
+    "willvk.github.io/docs/valkair/Characters/Hannah.md",
+    "willvk.github.io/docs/valkair/imgs/thonking.png",
     "willvk.github.io/docs/valkair/Characters/Caerdan.md",
     "willvk.github.io/docs/valkair/Geography/The Middens.md",
     "willvk.github.io/docs/valkair/Geography/Dres Elas.md",
-    "Pasted image 20250311005323.png",
+    "willvk.github.io/docs/valkair/imgs/middens.png",
     "Campaign Planning/Drama.md",
     "Campaign Planning/Act 1 Plots pieces/The Catalyst plot.md",
     "Campaign Planning/Act 1 Plots pieces/A human perspective ....md",
@@ -243,10 +248,6 @@
     "willvk.github.io/docs/valkair/Peoples/Dwarves.md",
     "willvk.github.io/docs/valkair/Peoples/Smallfolk.md",
     "willvk.github.io/docs/valkair/Factions/The Chosen.md",
-    "willvk.github.io/docs/valkair/Peoples/Ork.md",
-    "willvk.github.io/docs/valkair/Factions/Thrandurassil.md",
-    "willvk.github.io/docs/valkair/Factions/Netherese.md",
-    "willvk.github.io/docs/valkair/Peoples/Humans.md",
     "willvk.github.io/docs/valkair/imgs/og4.jpg",
     "itme.png",
     "willvk.github.io/docs/valkair/Session Notes/Act 1 - Hammerfall",
@@ -264,7 +265,6 @@
     "Pasted image 20250224105756.png",
     "Pasted image 20250224105827.png",
     "Pasted image 20250224105800.png",
-    "willvk.github.io/docs/valkair/imgs/Guildhantz.png",
-    "willvk.github.io/docs/valkair/imgs/Norse-God-Of-The-Sea-1024x509.jpg"
+    "willvk.github.io/docs/valkair/imgs/Guildhantz.png"
   ]
 }
