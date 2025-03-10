@@ -1,0 +1,1 @@
+A wererat, and it is slowly driving her paranoid and insane. She has started to doubt and distrust [[Kvarrac]] and believes that violent action must be taken against Upper Hammerfall.

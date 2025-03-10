@@ -1,0 +1,3 @@
+1. **The Ghost Ship Signal** – On certain foggy nights, the tavern’s lanterns flicker in **a specific pattern.** Smugglers know this is a call to meet at the docks—the Black Tide Tavern is used as a signal post for illicit trade.
+2. **The River Monster’s Tribute** – Every full moon, a **mysterious offering** is left at the base of the tavern’s stilts—bloody fish, trinkets, and coins. No one knows who or what leaves them, but some believe it’s to appease something **beneath the river.**
+3. **The Hidden Trapdoor** – Behind the bar, beneath a carefully placed keg, lies a **trapdoor leading to an underground cavern.** Varka claims it’s “just for storage,” but it goes much deeper than that…

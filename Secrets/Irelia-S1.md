@@ -1,0 +1,1 @@
+She once turned in a man to Upper Hammerfall’s guards, but now his ghost **sits across from her whenever she drinks.**

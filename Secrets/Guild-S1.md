@@ -1,0 +1,1 @@
+[[Fafnir]] is a dwarf who is corrupted by cursed gold and turned into a dragon. Kinda like Smaug but Norse.

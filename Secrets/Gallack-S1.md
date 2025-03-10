@@ -1,0 +1,1 @@
+has a **map carved into one of his teeth**, leading to a wreck full of treasure, but he won’t tell anyone which one.

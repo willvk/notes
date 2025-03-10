@@ -1,0 +1,1 @@
+A trading caravan passing another under the cover of darkness, becomes a test of strength. Blades are pulled, axes unhitched from the wagons and the goods pass into the hands of the victor. Now they have twice as much for sale when they reach their destination.

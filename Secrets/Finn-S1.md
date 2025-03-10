@@ -1,0 +1,1 @@
+isn't lying—the mermaid **left him a gift,** and someone in the city wants it back.

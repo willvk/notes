@@ -1,0 +1,1 @@
+Varka still owes a debt to an unknown benefactor who helped her escape execution. Occasionally, strange individuals come to collect on that debt.
