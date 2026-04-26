@@ -1,5 +1,4 @@
 [[Heimdall]] arrives at the [[The Black Tide Tavern]] and meets them.
-
 Heimdall is a loud charismatic and boisterous traveller which kicks them all out of their gloom.
 
 He calls himself simply a wanderer unless pressed and then says his name is Heimdall and that something has drawn him to this place again. A feeling which he hasn't felt in a long time. So he has come to find out what it was. And to have a drink and meet some people at the same time.

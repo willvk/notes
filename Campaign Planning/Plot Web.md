@@ -1,21 +1,5 @@
 ## PCs Pieces
 
-### Balder -- non core
-- Yorvik
-	- small + self reliant
-	- Balder fled after death of sun
-- Jarl of Yorvik
-- Ygritte
-	- Captured bride
-- Son of Ygritte and Balder
-	- Dead
-- ==Jarl Ivar==
-	- Joined raid with Balder
-	- Stole Ygritte
-	- Murdered Balder's Son
-		- Imposter child, Raised Balders son as own
-- Alcoholic
-
 ### Brawn
 - Murgrog
 	- orc village
@@ -32,12 +16,14 @@
 
 ### Gunnar
 - Burial Tomb ritual 
+	- guild ritual 
 	- covered in runes for Odin and Hel
-	- suspected ritual
+	- elven mother sacrificed herself for him despite being progeny of rape
+	- orc father, member of the pack
 - [[The Pack]]
 	- found him as a baby
 	- Raid Elven encampments
-	- Gunnar is part of The Pack
+	- Gunnar grows to become part of The Pack
 - Mirror
 	- connects him to the supernatural
 	- part of the ritual
@@ -72,8 +58,26 @@
 		- smart + resourceful
 		- Gave Riven a Bow
 - Orphanage was a slave farm
-	- The Guild growing slaves for the Elves
+	- [[The Guild]] growing slaves for sale
 - Magic bow blessed by Ullr
 	- Gods are opposed to the Elves
 - Wants to find his 3 friends
 	- somehow bow helps him do this
+
+## non core
+---
+### Balder
+- Yorvik
+	- small + self reliant
+	- Balder fled after death of sun
+- Jarl of Yorvik
+- Ygritte
+	- Captured bride
+- Son of Ygritte and Balder
+	- Dead
+- ==Jarl Ivar==
+	- Joined raid with Balder
+	- Stole Ygritte
+	- Murdered Balder's Son
+		- Imposter child, Raised Balders son as own
+- Alcoholic

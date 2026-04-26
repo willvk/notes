@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.williamvk.com)",
+      "WebFetch(domain:2e.aonprd.com)",
+      "WebFetch(domain:williamvk.com)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\eval-1-sacrifice-filled-notes\\\\with_skill\\\\outputs\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\eval-1-sacrifice-filled-notes\\\\without_skill\\\\outputs\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\eval-2-sakapatate-sparse-notes\\\\with_skill\\\\outputs\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\eval-2-sakapatate-sparse-notes\\\\without_skill\\\\outputs\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\eval-3-casual-trigger\\\\with_skill\\\\outputs\")",
+      "Bash(python eval-viewer/generate_review.py \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\" --skill-name \"session-recap\" --benchmark \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\benchmark.json\" --static \"C:\\\\Users\\\\willv\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\7b50d1e4-9537-4dea-be31-6350d2967950\\\\02e4e71a-0783-407d-bf57-60965677ad7a\\\\skills\\\\session-recap-workspace\\\\iteration-1\\\\review.html\")",
+      "Bash(git add *)",
+      "Bash(git rm *)",
+      "Bash(git reset *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
